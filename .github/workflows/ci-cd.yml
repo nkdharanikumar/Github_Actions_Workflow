@@ -49,3 +49,4 @@ jobs:
           key: ${{ secrets.EC2_SSH_KEY }}
           source: "."
           target: "/home/ubuntu/tinyurl"
+          
